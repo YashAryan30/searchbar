@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "image": "https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-006.jpg",
+        "title": "Chicken Biriyani"
+    },
+    {
+        "id": 2,
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/veg-noodles-vegetable-noodles-recipe.jpg",
+        "title": "Noodles"
+    },
+    {
+        "id": 3,
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/dosa-recipe-3.jpg",
+        "title": "Dosa"
+    },
+    {
+        "id": 4,
+        "image": "https://content.jdmagicbox.com/comp/hyderabad/s7/040pxx40.xx40.220311205156.m4s7/catalogue/dai-s-kitchen-pahadi-momo-s-mega-hills-madhapur-hyderabad-momos-centres-f9kif31mj5.jpg",
+        "title": "Momos"
+    },
+    {
+        "id": 5,
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Mumbai-Pav-Bhaji-Recipe.jpg",
+        "title": "Pav Bhaji"
+    },
+    {
+        "id": 6,
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
+        "title": "Butter Chicken"
+    },
+    {
+        "id": 7,
+        "image": "https://www.endofthefork.com/wp-content/uploads/2018/01/1200x1200-khaman-dhokla.jpg",
+        "title": "Dhokla"
+    }
+]
